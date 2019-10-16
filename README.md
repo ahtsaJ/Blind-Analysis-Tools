@@ -1,4 +1,4 @@
-# Blind Analysis Tools
+# Blind Analysis Tools for FIJI/ImageJ
 * **File Name Encrypter** - This tool copies randomly selected (image) files to a new subfolder with encrypted names.
 * **Analyse & Decide** - This tool facilitates blind image analysis by randomly opening an image and displaying it with an encrypted name.
 
